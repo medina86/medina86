@@ -26,7 +26,7 @@ Mini project simulating a smart pet feeding system - ESP8266 + html/css/js
 👩‍💻  **Tools & Technologies**
 
   💻Languages
-  C#, C++, Dart, JavaScript, HTML, CSS, SQL,  
+  C#, C++, Dart, JavaScript, Java
 
 🧱 Frameworks & Libraries
 .NET / ASP.NET Core, Flutter, Angular, Firebase, Entity Framework Core
